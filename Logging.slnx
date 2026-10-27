@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LogConsumer/LogConsumer.csproj" />
+  <Project Path="ServiceA/ServiceA.csproj" />
+  <Project Path="ServiceB/ServiceB.csproj" />
+</Solution>

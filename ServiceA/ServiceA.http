@@ -1,0 +1,15 @@
+@ServiceA_HostAddress = https://localhost:7203
+
+
+GET {{ServiceA_HostAddress}}/api/logs/information
+Accept: application/json
+
+###
+
+GET {{ServiceA_HostAddress}}/api/logs/warning
+Accept: application/json
+
+###
+
+GET {{ServiceA_HostAddress}}/api/logs/error
+Accept: application/json
